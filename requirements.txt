@@ -1,0 +1,23 @@
+# Phys-Agent Backend Requirements
+# For TSMC CareerHack Project - Physics Knowledge MCP Server
+
+# Core MCP Framework
+mcp>=1.0.0
+
+# Vector Database
+chromadb>=0.4.0
+
+# Embeddings
+sentence-transformers>=2.2.0
+
+# ArXiv Integration
+arxiv>=2.0.0
+
+# PDF Processing
+pymupdf>=1.23.0
+
+# HTTP Requests
+requests>=2.28.0
+
+# Server (optional, for HTTP mode)
+uvicorn>=0.20.0
